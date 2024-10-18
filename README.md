@@ -20,7 +20,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🗂️ Business Model Canvas (BMC) : [View BMC (Coming Soon)]()
 - 📝 Set Up Guide : [View Guide](https://github.com/yebology/blocestate-setup-guide.git)
 - 📖 Usage Guidebook : [View Guide (Coming Soon)]()
-- 📜 Canister Address : [View on ICP Dashboard Mainnet]()
+- 📜 Canister Address : [View on ICP Dashboard Mainnet (Coming Soon)]()
 - 🎥 Demo Video : [Watch Video (Coming Soon)]()
 
 ## ⚙️ Tech Stack Behind BlocEstate
