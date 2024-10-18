@@ -14,8 +14,8 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🙂 Verify Identity : Complete the KYC process using Indonesian ID (KTP) and facial verification to ensure a safe and trusted marketplace for all users. 🔒
 
 ## 🚀 BlocEstate Insights
-- 💻 dApp (Frontend) : [View Code](github.com/LouisFernando1204/blocestate-dapp.git)
-- 🔧 Canister (Backend) : [View Code](github.com/LouisFernando1204/blocestate-canister.git)
+- 💻 dApp (Frontend) : [View Code](https://github.com/LouisFernando1204/blocestate-dapp.git)
+- 🔧 Canister (Backend) : [View Code](https://github.com/LouisFernando1204/blocestate-canister.git)
 - 📊 Business Overview : [View File (Coming Soon)]()
 - 🗂️ Business Model Canvas (BMC) : [View BMC (Coming Soon)]()
 - 📝 Set Up Guide : [View Guide](github.com/yebology/blocestate-setup-guide.git)
