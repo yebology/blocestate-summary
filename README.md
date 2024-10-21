@@ -1,4 +1,4 @@
-# BlocEstate : The Future of Secure Property Auctions in Indonesia. 🚀
+# BlocEstate : The Future of Secure Real Estate Auctions in Indonesia. 🚀
 
 ## ✨ Overview
 Welcome to BlocEstate, a blockchain-based platform for real estate auctions on the ICP network! 🏡🔗📊 Bid on exclusive properties or auction your own real estate with secure, transparent transactions. Tailored for Indonesian users with KYC verification, 🌍🛡️ BlocEstate offers a seamless and trusted auction experience, bringing the future of real estate transactions to you. 🚀
@@ -9,7 +9,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🙂 Verify Identity
 
 ## 📋 How It Works
-- 🏠 Create Auction : List your property for auction, setting your desired starting price and auction duration. 📅
+- 🏠 Create Auction : List your real estate for auction, setting your desired starting price and auction duration. 📅
 - 💰 Bid Auction : Place competitive bids on listed properties and secure your dream home if you have the highest bid! 🏆
 - 🙂 Verify Identity : Complete the KYC process using Indonesian ID (KTP) and facial verification to ensure a safe and trusted marketplace for all users. 🔒
 
