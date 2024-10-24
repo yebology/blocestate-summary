@@ -32,9 +32,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🎨 Styling : TailwindCSS
 
 ## 🖼️ Assets Reference
-- lorem ipsum
-- lorem ipsum
-- lorem ipsum
+- [Garuda Pancasila picture on certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg/1200px-National_emblem_of_Indonesia_Garuda_Pancasila.svg.png)
 
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
