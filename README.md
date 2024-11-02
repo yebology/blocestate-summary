@@ -18,7 +18,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🔧 Canister (Backend) : [View Code](https://github.com/LouisFernando1204/blocestate-canister.git)
 - 📊 Business Overview : [View File](https://drive.google.com/file/d/1w77QQ_w1LpaP7onKRSzr_nuVb2RYODXo/view?usp=sharing)
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1B4Nd7qeOh-LffyJrZ3qeLqZc__0K7J2i/view?usp=sharing)
-- 🔗 App Flow : [View Flow](https://drive.google.com/file/d/16Z1ewb71s-_dzZjyZ4kz9kJjiSFxCDgZ/view?usp=sharing)
+- 🔑 App Flow : [View Flow](https://drive.google.com/file/d/16Z1ewb71s-_dzZjyZ4kz9kJjiSFxCDgZ/view?usp=sharing)
 - 📝 Set Up Guide : [View Guide](https://github.com/yebology/blocestate-setup-guide.git)
 - 📖 Usage Guidebook : [View Guide (Coming Soon)]()
 - 🎥 Demo Video : [Watch Video (Coming Soon)]()
@@ -26,6 +26,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 ## ⚙️ Tech Stack Behind BlocEstate
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Canister Development : Motoko
+- 🔗 Library : Agent.js
 - 💳 Wallet Integration : Plug Wallet
 - 🧩 Component Library : Aceternity UI
 - 🌐 IPFS Provider : Pinata
