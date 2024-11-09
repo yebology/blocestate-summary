@@ -34,6 +34,13 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 
 ## 🖼️ Assets Reference
 - 📢 [Garuda Pancasila picture on certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/National_emblem_of_Indonesia_Garuda_Pancasila.svg/1200px-National_emblem_of_Indonesia_Garuda_Pancasila.svg.png)
+- 📢 [First house picture](
+https://picture.rumah123.com/r123-images/720x420-crop/customer/1971740/2024-03-21-05-35-42-a11c1467-de70-4b94-9b61-6e3b0fff375d.jpg)
+- 📢 [Second house picture](https://cdn.raywhite.co.id/2023/07/21/395949-67613374__1688709447-28452-IMG-20230705-WA0071-794.jpg)
+- 📢 [Third house picture](https://img-ap-1.trovit.com/img1id/611rA1kA1-K/611rA1kA1-K.1_11.jpg)
+- 📢 [Fourth house picture](https://picture.rumah123.com/r123-images/720x420-crop/customer/1606948/45f10007c60ea8e34c34b0c29d6ec37d.jpg)
+- 📢 [Calendar icon on auction card](https://img.icons8.com/material-sharp/24/calendar--v1.png)
+- 📢 [Arrow icon on auction card](https://img.icons8.com/ios/50/arrow--v1.png) 
 
 ## 🤝 Contributors
 - 🧑 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
