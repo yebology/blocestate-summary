@@ -24,7 +24,7 @@ Welcome to BlocEstate, a blockchain-based platform for real estate auctions on t
 - 🎥 Demo Video : [Watch Video](https://drive.google.com/file/d/1woOIngYwa_lxsd1MBnSu9ii1GV5BNXpF/view?usp=drive_link)
 
 ## ⚙️ Tech Stack Behind BlocEstate
-- 🖥️ Frontend : ReactJS (Javascript)
+- 🖥️ Frontend : React (Javascript)
 - 🔧 Canister Development : Motoko
 - 🔗 Library : Agent.js
 - 💳 Wallet Integration : Plug Wallet
